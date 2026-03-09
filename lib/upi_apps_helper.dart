@@ -381,23 +381,23 @@ class UpiAppsHelper {
   static UpiAppsHelper yesPay = UpiAppsHelper._fromEnum(_AllUpiApps.yesPay);
 
   static const bhimImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/bhim.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/bhim.png";
   static const paytmImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/paytm.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/paytm.png";
   static const credImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/cred.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/cred.png";
   static const amazonImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/amazon.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/amazon.png";
   static const gpayImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/gpay.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/gpay.png";
   static const phonepeImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/phonepe.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/phonepe.png";
   static const airtelImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/airtel.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/airtel.png";
   static const payzappImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/payzapp.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/payzapp.png";
   static const mobikwikImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/mobikwik.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/mobikwik.png";
   static const freechargeImg =
-      "https://github.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/freecharge.png?raw=true";
+      "https://raw.githubusercontent.com/cooltechie-info/upi-chooser/blob/master/example/assets/upi/freecharge.png";
 }
